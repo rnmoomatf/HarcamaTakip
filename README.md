@@ -42,7 +42,6 @@ python app.py
 
 ## 🔗 Bağlantılar
 
-- 🌐 [Tanıtım Sayfası](proje-tanitim.html)
 - 💻 [GitHub Projesi](https://github.com/rnmoomatf/ParaTakip.git)
 - 👤 [LinkedIn Profilim](https://www.linkedin.com/in/rnmoo-matf-502517336/)
 
