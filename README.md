@@ -44,7 +44,7 @@ python app.py
 
 - 🌐 [Tanıtım Sayfası](proje-tanitim.html)
 - 💻 [GitHub Projesi](https://github.com/rnmoomatf/ParaTakip.git)
-- 👤 [LinkedIn Profilim](https://www.linkedin.com/in/rnmoomatf)
+- 👤 [LinkedIn Profilim](https://www.linkedin.com/in/rnmoo matf)
 
 ---
 
