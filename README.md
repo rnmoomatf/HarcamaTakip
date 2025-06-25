@@ -8,7 +8,7 @@
 ## 🚀 Özellikler
 
 - ✅ HTML/CSS/JS ile kullanıcı dostu arayüz
-- ✅ CouchDB ie verileri tutma
+- ✅ CouchDB ile verileri kaydetme
 - ⚙️ Node.js tabanlı sunucu (server.js)
 - 🐍 Flask (Python) ile alternatif backend (python_flask/app.py)
 - 📁 `public/` klasörü altında ön yüz dosyaları
