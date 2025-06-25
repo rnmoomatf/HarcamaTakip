@@ -1,13 +1,14 @@
 
 # 💰 ParaTakip
 
-**ParaTakip**, kişisel gelir-gider takibini kolaylaştırmak için geliştirilmiş sade ve işlevsel bir web uygulamasıdır. Kullanıcı arayüzü HTML, CSS ve JavaScript ile oluşturulmuş; sunucu tarafında ise hem **Node.js** hem de **Flask (Python)** ile backend desteği sunulmuştur.
+**ParaTakip**, kişisel gelir-gider takibini kolaylaştırmak için geliştirilmiş sade ve işlevsel bir web uygulamasıdır. Kullanıcı arayüzü HTML, CSS ve JavaScript ile oluşturulmuş, CouchDB veritabanı olarak kullanılmış, sunucu tarafında ise hem **Node.js** hem de **Flask (Python)** ile backend desteği sunulmuştur.
 
 ---
 
 ## 🚀 Özellikler
 
 - ✅ HTML/CSS/JS ile kullanıcı dostu arayüz
+- ✅ CouchDB ie verileri tutma
 - ⚙️ Node.js tabanlı sunucu (server.js)
 - 🐍 Flask (Python) ile alternatif backend (python_flask/app.py)
 - 📁 `public/` klasörü altında ön yüz dosyaları
@@ -41,9 +42,9 @@ python app.py
 
 ## 🔗 Bağlantılar
 
-- 🌐 [Tanıtım Sayfası](proje-tanitim-modern.html)
-- 💻 [GitHub Projesi](https://github.com/kullaniciadi/ParaTakip)
-- 👤 [LinkedIn Profilim](https://www.linkedin.com/in/kullaniciadi)
+- 🌐 [Tanıtım Sayfası](proje-tanitim.html)
+- 💻 [GitHub Projesi](https://github.com/rnmoomatf/ParaTakip.git)
+- 👤 [LinkedIn Profilim](https://www.linkedin.com/in/rnmoomatf)
 
 ---
 
