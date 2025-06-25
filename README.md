@@ -1,1 +1,56 @@
-# eu_bmyo_couchdb
+
+# 💰 ParaTakip
+
+**ParaTakip**, kişisel gelir-gider takibini kolaylaştırmak için geliştirilmiş sade ve işlevsel bir web uygulamasıdır. Kullanıcı arayüzü HTML, CSS ve JavaScript ile oluşturulmuş; sunucu tarafında ise hem **Node.js** hem de **Flask (Python)** ile backend desteği sunulmuştur.
+
+---
+
+## 🚀 Özellikler
+
+- ✅ HTML/CSS/JS ile kullanıcı dostu arayüz
+- ⚙️ Node.js tabanlı sunucu (server.js)
+- 🐍 Flask (Python) ile alternatif backend (python_flask/app.py)
+- 📁 `public/` klasörü altında ön yüz dosyaları
+
+---
+
+## 🧪 Kurulum ve Çalıştırma
+
+### 📦 Node.js Sunucusu:
+
+```bash
+npm install
+node server.js
+```
+
+### 🐍 Flask Sunucusu:
+
+```bash
+cd python_flask
+pip install flask
+python app.py
+```
+
+---
+
+## 🖼️ Ekran Görseli
+
+![Proje Görseli](https://via.placeholder.com/800x400.png?text=ParaTakip+Ekran+Goruntusu)
+
+---
+
+## 🔗 Bağlantılar
+
+- 🌐 [Tanıtım Sayfası](proje-tanitim-modern.html)
+- 💻 [GitHub Projesi](https://github.com/kullaniciadi/ParaTakip)
+- 👤 [LinkedIn Profilim](https://www.linkedin.com/in/kullaniciadi)
+
+---
+
+## 📌 Notlar
+
+Bu proje eğitim amaçlıdır. Geliştirilmeye açıktır. Her türlü katkıya ve geri bildirime açığım. 🙌
+
+---
+
+&copy; 2025 ParaTakip – Tüm hakları saklıdır.
