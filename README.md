@@ -36,7 +36,7 @@ python app.py
 
 ## 🖼️ Ekran Görseli
 
-![Proje Görseli](https://via.placeholder.com/800x400.png?text=ParaTakip+Ekran+Goruntusu)
+![Proje Görseli](https://raw.githubusercontent.com/rnmoomatf/ParaTakip/refs/heads/main/Harcama_Takip.png)
 
 ---
 
