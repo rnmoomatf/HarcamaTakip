@@ -89,7 +89,7 @@ python app.py
 
 ## 🖼️ Proje Ekran Görüntüsü
 
-![Proje Görüntüsü](https://raw.githubusercontent.com/rnmoomatf/HarcamaTakip/refs/heads/main/Harcama_Takip.png)
+![Proje Görüntüsü](https://raw.githubusercontent.com/rnmoomatf/HarcamaTakip/main/HarcamaTakip.png)
 
 ---
 
