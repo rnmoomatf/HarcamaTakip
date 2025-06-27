@@ -60,15 +60,15 @@ konularında pratik deneyim kazanılmıştır.
 
 ## ⚙️ Kurulum ve Çalıştırma
 
-- CouchDB yüklü ve `localhost:5984` üzerinde çalışıyor olmalıdır. 
--Tarayıcıdan `http://localhost:5984/_utils` adresine giderek veritabanını görüntüleyebilirsiniz. 
+- CouchDB yüklü ve çalışıyor olmalıdır. 
+- Tarayıcıdan `http://localhost:5984/_utils` adresine giderek CouchDB'de oturum açabilirsiniz. 
 - Kullanıcı adı: `admin`, Şifre: `123456` şeklinde yapılandırılmıştır.
--Veritabanı olarak CouchDB'nin harcamalar isimli veritabanı kullanılmaktadır.
--Sunucu ilk çalıştırıldığında bu veritabanı otomatik olarak oluşturulur (eğer yoksa). 
--Gerekirse harcamalar isimli veritabanını CouchDB'de manuel olarak oluşturabilirsiniz.
--Node.js sunucusu ile birlikte `public/` klasöründeki dosyalar otomatik olarak servis edilir.  
--Express.js sunucusu http://localhost:5500 adresinde çalışmaktadır. 
--Sunucuyu çalıştırdıktan sonra `http://localhost:5500` adresinden arayüze erişebilirsiniz.
+- Veritabanı olarak CouchDB'nin harcamalar isimli veritabanı kullanılmaktadır.
+- Sunucu ilk çalıştırıldığında bu veritabanı otomatik olarak oluşturulur (eğer yoksa). 
+- Gerekirse harcamalar isimli veritabanını CouchDB'de manuel olarak oluşturabilirsiniz.
+- Node.js sunucusu ile birlikte `public/` klasöründeki dosyalar otomatik olarak servis edilir.
+- Express.js sunucusu `http://localhost:5500` adresinde çalışmaktadır.
+- Sunucuyu çalıştırdıktan sonra `http://localhost:5500` adresinden arayüze erişebilirsiniz.
 
 ### 📦 Node.js Sunucusu (Express + CouchDB)
 
@@ -103,9 +103,10 @@ python app.py
 ## 📌 Notlar
 
 Bu proje eğitim amaçlıdır. Geliştirilmeye açıktır. Her türlü katkıya ve geri bildirime açığım. 🙌
-Soru ve önerileriniz için benimle iletişime geçebilirsiniz.  
-Projeyi faydalı bulduysanız ⭐ bırakmayı unutmayın!
+Soru ve önerileriniz için benimle iletişime geçebilirsiniz.
 
 ---
 
 &copy; 2025 HarcamaTakip – Tüm hakları saklıdır.
+
+---
