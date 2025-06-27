@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Para Takip Sistemi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>💰 Harcama Takip</h1>
+
+        <div class="form-group">
+            <input type="text" id="aciklama" placeholder="Açıklama">
+            <input type="number" id="miktar" placeholder="Miktar">
+            <select id="tip">
+                <option value="gider">Gider</option>
+                <option value="gelir">Gelir</option>
+            </select>
+            <select id="kategori">
+                <option value="fatura">Fatura</option>
+                <option value="ulasim">Ulaşım</option>
+                <option value="yemek">Yemek</option>
+                <option value="vergi">Vergi</option>
+                <option value="maas">Maaş</option>
+                <option value="saglik">Sağlık</option>
+                <option value="yakit">Yakıt</option>
+                <option value="borc">Borç</option>
+                <option value="eglence">Eğlence</option>
+                <option value="egitim">Eğitim</option>
+                <option value="teknoloji">Teknoloji</option>
+                <option value="ekGelir">Ek Gelir</option>
+                <option value="diger">Diğer</option>
+                
+            </select>
+            <button onclick="ekle()">Ekle</button>
+        </div>
+
+        <div class="raporlar">
+            <h2>📊 Aylık Rapor</h2>
+            <div id="rapor"></div>
+        </div>
+
+        <table id="liste">
+            <tr>
+                <th>Tarih</th>
+                <th>Açıklama</th>
+                <th>Kategori</th>
+                <th>Tip</th>
+                <th>Miktar</th>
+                <th>Güncelle Sil</th>
+
+            </tr>
+        </table>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
